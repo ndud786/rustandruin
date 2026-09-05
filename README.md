@@ -6,6 +6,8 @@ A 2D top-down action-survival game built from scratch in Python with Pygame. Fig
 
 ## Gameplay
 
+<img width="1626" height="1680" alt="0ED34840-8DED-4B91-8E9A-47249D71DB86" src="https://github.com/user-attachments/assets/39a36411-f95e-4e83-a12c-8bbea613f914" />
+<img width="1610" height="1670" alt="18DE81AC-1F1F-4060-9AE4-0E3B30CEA6A2" src="https://github.com/user-attachments/assets/8168eb89-d6c5-485f-8ec0-53f0392ad92b" />
 
 ## Features
 
